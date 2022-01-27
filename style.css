@@ -21,9 +21,12 @@ h1 {
 h1 span {
   color: orange;
 }
-h3 {
+h2 {
   font-size: 40px;
 }
 .half-width img {
   width: 100%;
+}
+h3{
+  font-size: 40px;
 }
